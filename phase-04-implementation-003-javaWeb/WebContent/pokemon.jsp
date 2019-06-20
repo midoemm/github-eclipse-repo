@@ -82,7 +82,7 @@
 		src="/static/audio/first.mp3" ></audio>
 	<div id="introduction-txt"
 		style="display: none; font-size: 22px; color: black; position:absolute; right :10px;top:80px" >
-		宝可梦剑盾PV<br /> <span style="font-size: 18px; color: black">
+		宝可梦剑盾PV <br /> <span style="font-size: 18px; color: black">
 			——2019年冬季发售 </span><br />
 	</div>
 	<span id="Firstline" style="display: none; font-size: 30px; color: white;">click the corner!</span> 

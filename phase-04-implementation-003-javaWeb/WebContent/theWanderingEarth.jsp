@@ -53,7 +53,7 @@
 	<audio id="poem" src="/static/audio/wanderingEarch-poem.mp3"
 		preload="auto"></audio>
 	<span id="firstline" style="font-size: 26px; color: white">大家好，我准备设计和实现一个“<span
-		style="font-size: 38px; color: red">流浪地球</span>”的漂亮网页！ 欢迎大家观赏,谢谢！
+		style="font-size: 38px; color: red">流浪地球</span>”的漂亮网页！欢迎大家观赏,谢谢！
 	</span>
 	<audio id="waiting" src="/static/audio/waiting.mp3" preload="auto"></audio>
 	<div id="poem-txt"
